@@ -1,0 +1,58 @@
+#logo {
+  width: 170px;
+}
+header {
+  text-align: center;
+}
+#primalinea {
+  color: rgb(236, 146, 27);
+  background: rgb(236, 146, 27);
+  border: 0;
+  height: 1px;
+  margin: 0;
+}
+h5 {
+  margin: 0;
+  padding: 15px;
+  background-color: rgb(232, 195, 236, 0);
+}
+
+main, footer{
+  
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#titolo {
+  text-align: center;
+}
+
+#sottofoto {
+  margin: 0;
+  text-align: center;
+  color: grey;
+}
+#secondalinea {
+  color: rgb(129, 197, 120);
+  background: rgb(129, 197, 120);
+  border: 0;
+  height: 1px;
+  margin: 0;
+}
+li{
+    padding: 5px;
+}
+#terzalinea{color: rgb(129, 197, 120);
+    background: rgb(129, 197, 120);
+    border: 0;
+    height: 1px;
+    margin: 0;}
+    #paragrafo{
+        margin-left: 30px;
+    }
+    #paragrafoimg{
+        color: rgb(204, 54, 54);
+        margin-bottom: 0;
+    }
+  
